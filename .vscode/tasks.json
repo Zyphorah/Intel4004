@@ -8,6 +8,9 @@
             "args": [
                 "-g",
                 "${workspaceFolder}/src/main.cpp",
+                "${workspaceFolder}/src/instruction.cpp",
+                "${workspaceFolder}/src/asssemblageCode.cpp",
+                "${workspaceFolder}/src/stockage.cpp",
                 "-o",
                 "${workspaceFolder}/Intel4004",
             ],
